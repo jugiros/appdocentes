@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "aos": "^2.3.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chartist": "0.11.0",
     "firebase": "^3.7.5",
     "firebaseui": "^1.0.1",
